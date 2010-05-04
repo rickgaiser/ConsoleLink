@@ -23,8 +23,8 @@
 #define DEBUG_H
 
 
-#include <QTextBrowser.h>
-#include <QString.h>
+#include <QTextBrowser>
+#include <QString>
 
 
 extern QTextBrowser * pOutput;

@@ -20,7 +20,7 @@
 
 
 #include "mainwindow.h"
-#include "ui_mainWindow.h"
+#include "ui_mainwindow.h"
 #include "ui_settings.h"
 #include "ui_about.h"
 #include "debug.h"

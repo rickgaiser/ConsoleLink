@@ -26,7 +26,7 @@
 #include <QObject>
 #include <QWidget>
 #include <QString>
-#include <QtNetwork\QUdpSocket>
+#include <QUdpSocket>
 
 
 //---------------------------------------------------------------------------

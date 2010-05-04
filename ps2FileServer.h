@@ -28,7 +28,7 @@
 #include <QString>
 #include <QFile>
 #include <QTimer>
-#include <QtNetwork\QTcpSocket>
+#include <QTcpSocket>
 #include "ps2Screenshot.h"
 
 
